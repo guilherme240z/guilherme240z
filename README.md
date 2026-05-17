@@ -32,7 +32,7 @@ Systems Development Student
 
 &nbsp;&nbsp; php + mysql<br>
 &nbsp;&nbsp; html, css and bootstrap<br>
-&nbsp;&nbsp; java and visualg<br>
+&nbsp;&nbsp; javascript and visualg<br>
 &nbsp;&nbsp; mobile development<br>
 &nbsp;&nbsp; computer networks · cisco packet tracer
 
