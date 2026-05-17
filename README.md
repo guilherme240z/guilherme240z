@@ -69,6 +69,7 @@ Systems Development Student
 mobile project developed with friends, focused on water sample analysis and monitoring,
 combining systems development, interface concepts and mobile technologies
 for science fairs and technology presentations.
+ if you're interested, the project is in my favorites. ★
 
 </div>
 
