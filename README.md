@@ -21,12 +21,12 @@
 
 <br>
 
-&nbsp;&nbsp; Class &nbsp;&nbsp;→ gz    ⊹
+&nbsp;&nbsp;  &nbsp;&nbsp;→ gz       ⊹
 
 Systems Development Student
 <br>
 &nbsp;&nbsp; Origin → Brazil<br>
-&nbsp;&nbsp; Status → Building
+&nbsp;&nbsp; Status → afk
 
 <br><br>
 
@@ -65,8 +65,7 @@ Systems Development Student
 
 <div align="center">
 
-### AquaScan
-
+### ≋ 𝙰𝚀𝚄𝙰𝚂𝙲𝙰𝙽 
 mobile project developed with friends, focused on water sample analysis and monitoring,
 combining systems development, interface concepts and mobile technologies
 for science fairs and technology presentations.
