@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=300&section=header&text=gz&fontSize=54&fontColor=ffffff&font=Cormorant%20Garamond"/>
 
@@ -10,11 +10,14 @@
 
 </div>
 
+<br><br><br>
+
 <div align="center">
 
 # guilherme
 
-backend developer  
+systems development student  
+building projects with web and mobile technologies  
 brazil
 
 </div>
@@ -27,35 +30,51 @@ brazil
 
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,java,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,bootstrap,java,python,git,github,vscode&theme=dark"/>
 
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=40"/>
+currently studying and building with:
+
+php + mysql  
+html, css and bootstrap  
+java and visualg  
+mobile development with app studio  
+computer networks with cisco packet tracer
 
 </div>
+
+<br><br><br>
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=guilherme240z&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=777777&icon_color=ffffff"/>
+AquaScan
+
+mobile project developed with friends, focused on water sample analysis,  
+combining systems development, interface concepts and monitoring ideas  
+for science fairs and technology presentations
 
 </div>
+
+<br><br><br>
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme240z&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=777777"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilherme240z&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=7d7d7d&icon_color=ffffff"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme240z&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=7d7d7d"/>
 
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
 
@@ -68,6 +87,8 @@ brazil
 <img src="https://raw.githubusercontent.com/guilherme240z/guilherme240z/output/pacman-contribution-graph-dark.svg"/>
 
 </div>
+
+<br><br><br>
 
 <div align="center">
 
