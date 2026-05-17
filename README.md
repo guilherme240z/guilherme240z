@@ -52,7 +52,7 @@ Systems Development Student
 
 ![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-000?style=flat-square&logo=openjdk&logoColor=white)
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-000?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-000?style=flat-square&logo=bootstrap&logoColor=white)
