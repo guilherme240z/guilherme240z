@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,100:000000&text=gz&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=systems%20development%20•%20web%20•%20mobile&descAlignY=58&descSize=18&font=Cormorant%20Garamond"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=000000&text=gz&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=systems%20development%20%E2%80%A2%20web%20%E2%80%A2%20mobile&descAlignY=58&descSize=18&font=Cinzel"/>
 
 </div>
 
@@ -20,13 +20,17 @@
 
 systems development student
 
-<br><br>
+<br>
 
-php + mysql  
-html, css and bootstrap  
-java and visualg  
-mobile development  
-computer networks with cisco packet tracer
+php + mysql<br>
+html, css and bootstrap<br>
+java and visualg<br>
+mobile development<br>
+computer networks with cisco packet tracer<br>
+
+<br>
+
+> F11 quit
 
 </td>
 </tr>
@@ -34,7 +38,7 @@ computer networks with cisco packet tracer
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
@@ -42,19 +46,17 @@ computer networks with cisco packet tracer
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
 <h2>AquaScan</h2>
 
-mobile project developed with friends focused on water sample analysis and monitoring.
-
-combining systems development, interface concepts and mobile technologies for science fairs and presentations.
+mobile project developed with friends focused on water sample analysis and monitoring, combining systems development, interface concepts and mobile technologies for science fairs and technology presentations.
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
@@ -64,7 +66,7 @@ combining systems development, interface concepts and mobile technologies for sc
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
@@ -76,6 +78,6 @@ combining systems development, interface concepts and mobile technologies for sc
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=000000"/>
 
 </div>
