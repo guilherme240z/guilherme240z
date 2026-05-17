@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,100:000000&text=%20gz%20&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=systems%20development%20•%20web%20•%20mobile&descAlignY=58&descSize=18&font=Marcellus"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,100:000000&text=gz&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=systems%20development%20%E2%80%A2%20web%20%E2%80%A2%20mobile&descAlignY=58&descSize=18&font=Cormorant%20Garamond"/>
 
 </div>
 
@@ -16,21 +16,21 @@
 
 <td width="58%">
 
-# guilherme
+<h1>guilherme</h1>
 
-### systems development student
+systems development student
+
+<br><br>
 
 learning and building with:
+
+<br><br>
 
 php + mysql  
 html, css and bootstrap  
 java and visualg  
 mobile development  
 computer networks with cisco packet tracer
-
-<br>
-
-> F11 quit
 
 </td>
 </tr>
@@ -42,15 +42,7 @@ computer networks with cisco packet tracer
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=45"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,bootstrap,java,python,git,github,vscode&theme=dark"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=35"/>
 
 </div>
 
@@ -58,31 +50,42 @@ computer networks with cisco packet tracer
 
 <div align="center">
 
-## AquaScan
-
-mobile project developed with friends, focused on water sample analysis and monitoring, combining systems development, interface concepts and mobile technologies for science fairs and technology presentations.
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,bootstrap,java,git,github,vscode&theme=dark"/>
 
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilherme240z&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&ring_color=ffffff"/>
+<h2>AquaScan</h2>
+
+mobile project developed with friends,  
+focused on water sample analysis and monitoring,  
+combining systems development, interface concepts  
+and mobile technologies for science fairs and presentations.
+
+</div>
+
+<br><br><br>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilherme240z&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme240z&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f"/>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=35"/>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -90,7 +93,7 @@ mobile project developed with friends, focused on water sample analysis and moni
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
