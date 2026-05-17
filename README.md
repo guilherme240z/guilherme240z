@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=guilherme240z&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 </div>
@@ -10,20 +12,31 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="42%">
 
-&nbsp;&nbsp;◆ Class &nbsp;&nbsp;→ Systems Development Student<br>
-&nbsp;&nbsp;◆ Origin → Brazil<br>
-&nbsp;&nbsp;◆ Status → Building
+<img width="100%" src="https://raw.githubusercontent.com/guilherme240z/guilherme240z/refs/heads/main/8bb2adb6dc6be3b736889271fdf03a03.jpg"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-&nbsp;&nbsp;◆ php + mysql<br>
-&nbsp;&nbsp;◆ html, css and bootstrap<br>
-&nbsp;&nbsp;◆ java and visualg<br>
-&nbsp;&nbsp;◆ mobile development<br>
-&nbsp;&nbsp;◆ computer networks · cisco packet tracer
+<br>
+
+&nbsp;&nbsp; Class &nbsp;&nbsp;→ gz    ⊹
+
+Systems Development Student
+<br>
+&nbsp;&nbsp; Origin → Brazil<br>
+&nbsp;&nbsp; Status → Building
+
+<br><br>
+
+&nbsp;&nbsp; php + mysql<br>
+&nbsp;&nbsp; html, css and bootstrap<br>
+&nbsp;&nbsp; java and visualg<br>
+&nbsp;&nbsp; mobile development<br>
+&nbsp;&nbsp; computer networks · cisco packet tracer
+
+<br>
 
 </td>
 </tr>
@@ -37,9 +50,8 @@
 
 ### Technologies
 
-![Python](https://img.shields.io/badge/PYTHON-000?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-000?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white)
@@ -68,3 +80,4 @@ for science fairs and technology presentations.
 <img width="100%" src="https://raw.githubusercontent.com/guilherme240z/guilherme240z/output/pacman-contribution-graph-dark.svg"/>
 
 </div>
+
