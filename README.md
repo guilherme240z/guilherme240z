@@ -34,15 +34,7 @@ computer networks with cisco packet tracer
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=35"/>
-
-</div>
-
-<br><br>
+---
 
 <div align="center">
 
@@ -50,7 +42,7 @@ computer networks with cisco packet tracer
 
 </div>
 
-<br><br><br>
+---
 
 <div align="center">
 
@@ -62,25 +54,17 @@ combining systems development, interface concepts and mobile technologies for sc
 
 </div>
 
-<br><br><br>
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilherme240z&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilherme240z&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=7d7d7d&icon_color=ffffff"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme240z&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f"/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=35"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme240z&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=7d7d7d"/>
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
 
