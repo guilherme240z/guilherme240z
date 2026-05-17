@@ -1,36 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=000000&text=gz&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=systems%20development%20%E2%80%A2%20web%20%E2%80%A2%20mobile&descAlignY=58&descSize=18&font=Cinzel"/>
+![Profile Views](https://komarev.com/ghpvc/?username=guilherme240z&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 </div>
+
+---
 
 <div align="center">
 
 <table>
 <tr>
-<td width="42%">
+<td width="50%" valign="top">
 
-<img width="100%" src="https://raw.githubusercontent.com/guilherme240z/guilherme240z/refs/heads/main/8bb2adb6dc6be3b736889271fdf03a03.jpg"/>
+&nbsp;&nbsp;◆ Class &nbsp;&nbsp;→ Systems Development Student<br>
+&nbsp;&nbsp;◆ Origin → Brazil<br>
+&nbsp;&nbsp;◆ Status → Building
 
 </td>
+<td width="50%" valign="top">
 
-<td width="58%">
-
-<h1>guilherme</h1>
-
-systems development student
-
-<br>
-
-php + mysql<br>
-html, css and bootstrap<br>
-java and visualg<br>
-mobile development<br>
-computer networks with cisco packet tracer<br>
-
-<br>
-
-> F11 quit
+&nbsp;&nbsp;◆ php + mysql<br>
+&nbsp;&nbsp;◆ html, css and bootstrap<br>
+&nbsp;&nbsp;◆ java and visualg<br>
+&nbsp;&nbsp;◆ mobile development<br>
+&nbsp;&nbsp;◆ computer networks · cisco packet tracer
 
 </td>
 </tr>
@@ -38,46 +31,40 @@ computer networks with cisco packet tracer<br>
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,bootstrap,java,git,github,vscode&theme=dark"/>
+### Technologies
+
+![Python](https://img.shields.io/badge/PYTHON-000?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-000?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-000?style=flat-square&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCODE-000?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
 
-<h2>AquaScan</h2>
+### AquaScan
 
-mobile project developed with friends focused on water sample analysis and monitoring, combining systems development, interface concepts and mobile technologies for science fairs and technology presentations.
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilherme240z&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=7d7d7d&icon_color=ffffff"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme240z&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=7d7d7d"/>
+mobile project developed with friends, focused on water sample analysis and monitoring,
+combining systems development, interface concepts and mobile technologies
+for science fairs and technology presentations.
 
 </div>
 
-<br><br>
+---
 
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/guilherme240z/guilherme240z/output/pacman-contribution-graph-dark.svg"/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=000000"/>
 
 </div>
